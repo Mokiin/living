@@ -1,7 +1,7 @@
 # hspliving
 
 #### Description
-顺平-家居生活
+家居生活
 
 #### Software Architecture
 Software architecture description
